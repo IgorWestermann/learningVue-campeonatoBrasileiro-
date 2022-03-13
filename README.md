@@ -1,4 +1,5 @@
 # campeonato-brasileiro
+Aplicativo criado para aprender Vue.js
 
 ## Project setup
 ```
